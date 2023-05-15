@@ -8,7 +8,6 @@ const currentOperation = document.querySelector('.current-display');
 const perButton = document.querySelector('.per');
 const squareRoot = document.querySelector('.square');
 
-// const symbols = ['*', '+', '-', '÷', '%', 'x²']
 
 
 
@@ -71,12 +70,6 @@ class Calculator {
             case '÷':
                 computation = previous / current
                 break
-            // case '%':
-            //     computation = previous / 100
-            //     break
-            // case 'x²':
-            //     computation = Math.pow(previous, 2)
-            //     break
             default:
                 return
         }
