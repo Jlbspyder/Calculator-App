@@ -81,7 +81,4 @@ body {
     color: #000;
     text-decoration: none;
   }
-  .calculator-grid > button {
-    border: 1px solid #fff;
-}
 }
