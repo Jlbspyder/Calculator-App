@@ -1,6 +1,6 @@
 # Calculator
 
-This is a simple Calculator App
+This is a simple Calculator
 
 
 ### The challenge
