@@ -28,5 +28,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Jlbspyder](https://www.frontendmentor.io/profile/Jlbspyder)
 - Twitter - [@jlbspyder](https://www.twitter.com/jlbspyder)
